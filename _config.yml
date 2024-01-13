@@ -2,11 +2,11 @@
 lang: ja
 title: AA
 tagline: AA
-email: your-email@doc.creator-net.com
+email: your-email@tsubaki-studios.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/bulma-clean-theme"
-url: "https://doc.creator-net.com"
+url: "https://doc.tsubaki-studios.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
