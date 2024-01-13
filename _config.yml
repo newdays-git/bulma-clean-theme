@@ -1,12 +1,12 @@
 # Site Settings
-lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+lang: ja
+title: AA
+tagline: AA
+email: your-email@doc.creator-net.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+url: "https://doc.creator-net.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
